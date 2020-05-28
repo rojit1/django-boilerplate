@@ -1,0 +1,13 @@
+.social_media_links>a>i{
+    color:white;
+}
+
+.short_contact_list>ul>li>a>i,.short_contact_list>ul>li>a{
+    color:black;
+    
+}
+.short_contact_list> ul {
+    background-color: #FFFF99;
+    text-align: center;
+    width:50%;
+}
